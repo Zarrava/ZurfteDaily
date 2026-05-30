@@ -1,0 +1,6 @@
+# Exclude local build artifacts from EAS uploads (smaller, faster builds)
+.expo-build-test/
+.expo-verify/
+.expo-ui-verify/
+.expo-prod-check/
+.expo/
